@@ -1,3 +1,4 @@
+// function that converts the decimal number to other number systems
 function NumberConversions(){
     var x=document.getElementById('num').value;
     var y=Number(x);
