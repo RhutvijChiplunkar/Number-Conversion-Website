@@ -6,8 +6,8 @@ Website that converts decimal number to other number systems like binary, octal 
 
 ### Home Page 
 
-![](Screenshots/Home_page.jpg)
+![](Screenshots/Home_page.JPG)
 
 ### Conversion Page
 
-![](Screenshots/After_conversion.jpg)
+![](Screenshots/After_conversion.JPG)
