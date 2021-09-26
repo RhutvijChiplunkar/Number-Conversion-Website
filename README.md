@@ -4,10 +4,10 @@
 
 Website that converts decimal number to other number systems like binary, octal and hexadecimal
 
-### Start Page 
+### Home Page 
 
-![](Screenshots/Home_page.PNG)
+![](Screenshots/Home_page.jpg)
 
-### Login Page
+### Conversion Page
 
-![](Screenshots/Login_page.png)
+![](Screenshots/After_conversion.jpg)
