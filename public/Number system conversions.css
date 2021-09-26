@@ -65,6 +65,7 @@ button:hover{
     color:  whitesmoke;
     box-shadow: blue;
     outline: none;
+    cursor: pointer;
 }
 
 #num{
